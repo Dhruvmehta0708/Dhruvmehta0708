@@ -1,8 +1,9 @@
-<h1 align="center">Dhruv Mehta</h1>
-<h3 align="center">Software Developer · Full-Stack Systems · AI Agents</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=190&section=header&text=Dhruv%20Mehta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Systems%20%7C%20AI%20Agents%20%7C%20Software%20Engineering&descAlignY=57&descSize=17" width="100%" alt="Dhruv Mehta — Software Developer" />
+</p>
 
 <p align="center">
-  Building reliable software across frontend, backend, databases and intelligent agent workflows.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+full-stack+systems;Designing+AI+agent+workflows;Turning+ideas+into+working+software" alt="Animated technical introduction" />
 </p>
 
 <p align="center">
@@ -15,84 +16,89 @@
   <a href="https://drive.google.com/file/d/1EIQkmG_0YEWrBDpuQjKoricsMBZ7F9n8/view?usp=sharing"><strong>Resume</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,mysql,postgres,git,docker,postman,tailwind" alt="Core technology stack" />
-</p>
+Engineering Snapshot
 
-Technical Profile
+Focus
 
-I design and build full-stack applications, REST APIs and AI-integrated systems using React, Node.js, Express, Python, MongoDB, MySQL and PostgreSQL. My work spans system design, role-based access control, database modelling, API integration, automation, testing and end-to-end delivery.
+What I Build
 
-Recent engineering work includes:
+Full-Stack Systems
 
-Building a multi-source autonomous financial research agent with planning, tool orchestration, memory and evaluation systems.
+React interfaces connected to Node.js or Python services and SQL/NoSQL databases
 
-Developing role-based enterprise workflows across goals, approvals, review cycles, feedback, one-on-ones and rating history.
+Backend Engineering
 
-Creating AI-assisted platforms for job discovery, lead prioritization and visual pipeline composition.
+REST APIs, JWT authentication, RBAC, validation and database-backed workflows
 
-Designing JWT-secured APIs and database-backed workflows for multiple user roles.
+Applied AI
 
-I am open to software engineering opportunities involving full-stack development, backend systems and applied AI.
+Agent planning, tool orchestration, memory systems, LLM integrations and evaluation pipelines
+
+Delivery
+
+End-to-end testing, Git-based collaboration, automation and deployment-ready applications
+
+I approach software as a complete system—product requirements, interface, APIs, data, intelligence, testing and delivery.
 
 How I Build
 
-flowchart TB
-    A["Product Requirement"] --> B["React Interface"]
-    B --> C["Node.js / Python APIs"]
-    C --> D["SQL / NoSQL Data"]
-    C --> E["AI Agents & Tools"]
-    D --> F["Testing & Delivery"]
+flowchart LR
+    A["Product"] --> B["Interface"]
+    B --> C["API Services"]
+    C --> D["Data Layer"]
+    C --> E["AI & Automation"]
+    D --> F["Tested Delivery"]
     E --> F
 
-Selected Projects
+Featured Engineering Work
+
+Project
+
+Engineering Focus
+
+Stack & Links
 
 Autonomous Financial Research Agent
 
-An agentic research system designed to plan, execute and evaluate multi-step financial investigations across multiple information sources.
+ReAct/Plan–Execute, 10+ tools, three memory layers, fallback chains, 8 challenges and 20+ evaluation metrics
 
-Implements ReAct and Plan–Execute workflows with 10+ research tools.
+Python · Pydantic · Pytest · Repository
 
-Maintains short-term, vector and episodic memory for contextual research.
+SignalQueue
 
-Supports multi-source synthesis, fallback chains and structured error handling.
+Explainable lead scoring with transparent prioritization signals and actionable ranking insights
 
-Includes 8 progressive challenges and an evaluation framework covering 20+ metrics.
+React · Node.js · Express · Repository · Live · Video
 
-Stack: Python · Pydantic · Pytest · Financial APIs · LLM integrations
-Repository: ZethetaIntern/Project1A-DhruvMehta-AutonomousFinancialResearchAgent
+JobGPT
 
-SignalQueue · Explainable Lead Prioritization
+Automated job ingestion, normalization, deduplication, hard filtering and AI-powered fit analysis
 
-A full-stack application that scores and ranks prospects using transparent signals, while explaining why each lead should be prioritized.
-
-Stack: React · Node.js · Express · JavaScript
-Links: Repository · Live Demo · Video Walkthrough
-
-JobGPT · AI-Powered Job Discovery
-
-A job-discovery platform that fetches listings, normalizes and deduplicates results, applies hard filters, calculates relevance scores and generates personalized fit analysis.
-
-Stack: React · Node.js · Express · MongoDB · Groq SDK · node-cron
-Links: Backend · Frontend
+React · Node.js · MongoDB · Groq · Backend · Frontend
 
 AI Pipeline Builder
 
-A visual workflow builder with nine configurable nodes, drag-and-drop connections, centralized state management and backend DAG validation.
+Nine configurable nodes, drag-and-drop composition, centralized state and DAG validation
 
-Stack: React · React Flow · Zustand · FastAPI · Python
-Repository: vectorshift-pipeline-builder
+React Flow · Zustand · FastAPI · Repository
 
-Employee Leave Management System
+Leave Management System
 
-A JWT-secured role-based application where employees submit and track leave requests while managers review, approve or reject them.
+JWT-secured employee/manager workflows for submitting, tracking and deciding leave requests
 
-Stack: Node.js · Express · MySQL · JWT · Bootstrap 5
-Repository: employee-leave-management-system
+Node.js · Express · MySQL · Repository
 
-Technical Skills
+Core Technology Stack
 
-Area
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,fastapi,mongodb,mysql,postgres,git,docker,postman,tailwind&perline=7" alt="JavaScript, Python, C++, React, Node.js, Express, FastAPI, MongoDB, MySQL, PostgreSQL, Git, Docker, Postman and Tailwind CSS" />
+</p>
+
+<details>
+  <summary><strong>View capabilities by layer</strong></summary>
+  <br />
+
+Layer
 
 Technologies
 
@@ -102,32 +108,30 @@ React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React Flow, Zustand
 
 Backend
 
-Node.js, Express.js, REST APIs, JWT authentication, FastAPI
+Node.js, Express.js, FastAPI, REST APIs, JWT authentication, RBAC
 
-Databases
+Data
 
 PostgreSQL, MongoDB, MySQL, Prisma ORM
 
 AI & Automation
 
-LLM API integration, Groq SDK, agentic workflows, tool orchestration, node-cron
+LLM APIs, Groq SDK, agent workflows, tool orchestration, memory systems, node-cron
 
-Languages
+Engineering Tools
 
-JavaScript, Python, C++
+Git, GitHub, Postman, Docker, Vite, Pytest, VS Code
 
-Tools
-
-Git, GitHub, Postman, Docker, Vite, VS Code
+</details>
 
 Engineering Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Dhruvmehta0708" alt="Dhruv Mehta's GitHub contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/2563eb/Dhruvmehta0708" alt="Dhruv Mehta's GitHub contribution chart" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvmehta0708&theme=transparent&hide_border=true" alt="Dhruv Mehta's GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvmehta0708&theme=transparent&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB" alt="Dhruv Mehta's GitHub contribution streak" />
 </p>
 
 Education & Certifications
@@ -140,16 +144,18 @@ Database Management Systems — NPTEL, IIT Madras
 
 CS205: Managing Information Systems — Saylor Academy, 94%
 
-Contact
+Let's Build Something Useful
 
-Email: dhruvmehta2701@gmail.com
-
-LinkedIn: linkedin.com/in/dhruvmehta05
-
-Portfolio: View portfolio
-
-Resume: View resume
+I am open to software engineering opportunities and collaborations involving full-stack products, backend systems and applied AI.
 
 <p align="center">
-  <sub>Focused on building reliable full-stack systems and practical AI-powered products.</sub>
+  <a href="mailto:dhruvmehta2701@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/dhruvmehta05">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://service-3d-developer-portfolio-dhruv-mehta.ai.studio">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=100&section=footer" width="100%" alt="Footer" />
 </p>
