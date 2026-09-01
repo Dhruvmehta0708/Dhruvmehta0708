@@ -1,50 +1,40 @@
-<h1 align="center">Hi, I'm Dhruv Mehta</h1>
-
 <p align="center">
-  <strong>Software Developer focused on full-stack systems and applied AI</strong>
+  <img src="./dhruv-profile-banner.gif" width="100%" alt="Dhruv Mehta — Software Developer, Full-Stack Systems and Applied AI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1100&color=2563EB&center=true&vCenter=true&width=720&height=45&lines=Building+reliable+full-stack+products;Engineering+backend+APIs+and+data+workflows;Exploring+AI+agents%2C+tools+and+memory" alt="Animated introduction" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvmehta2701@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/dhruvmehta05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1EIQkmG_0YEWrBDpuQjKoricsMBZ7F9n8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:dhruvmehta2701@gmail.com">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dhruvmehta05">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://service-3d-developer-portfolio-dhruv-mehta.ai.studio">Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1EIQkmG_0YEWrBDpuQjKoricsMBZ7F9n8/view?usp=sharing">Resume</a>
-</p>
+## About
 
-About
+I build complete software systems—from user-facing interfaces and backend APIs to databases, automation and AI-assisted workflows. I care about clear architecture, reliable behavior and products that solve practical problems.
 
-I build web products across the complete application stack—from interfaces and APIs to databases, automation and AI-assisted workflows.
+```javascript
+const dhruv = {
+  builds: ["Full-Stack Products", "REST APIs", "AI Agents"],
+  stack: ["React", "Node.js", "Python", "PostgreSQL"],
+  approach: "Build → Validate → Iterate → Ship"
+};
+```
 
-Full-stack development with React, Node.js, Express and Python
-
-Backend engineering with REST APIs, JWT, RBAC and database modelling
-
-Applied AI with agent planning, tool orchestration, memory and evaluation
-
-Delivery through testing, Git-based workflows and deployment-ready builds
-
-Selected Work
+## Featured Work
 
 Autonomous Financial Research Agent
 
 Python AI Agents Tool Orchestration Memory Evaluation
 
-Multi-source research agent featuring ReAct/Plan–Execute workflows, 10+ tools, short-term/vector/episodic memory, fallback chains, 8 progressive challenges and 20+ evaluation metrics.
+Multi-source research agent with ReAct/Plan–Execute workflows, 10+ research tools, short-term/vector/episodic memory, fallback chains, 8 progressive challenges and 20+ evaluation metrics.
 
-<sub>Completed as part of the Zetheta WorkBridge Project 1A program. Organization repository access is restricted.</sub>
+<sub>Completed for Zetheta WorkBridge Project 1A. The organization repository is access-restricted.</sub>
 
 SignalQueue — Explainable Lead Prioritization
 
 React Node.js Express Explainable Scoring
 
-Ranks prospects through transparent scoring signals and explains why each lead should be prioritized.
+Transforms lead data into a prioritized queue using transparent scoring signals and clear reasoning behind every ranking.
 
 Live Demo · Repository · Video Walkthrough
 
@@ -52,30 +42,24 @@ JobGPT — AI-Powered Job Discovery
 
 React Node.js MongoDB Groq Automation
 
-Fetches, normalizes and deduplicates job listings, applies preference-based filters and generates personalized fit analysis.
+Fetches, normalizes and deduplicates listings, applies preference-based filters and generates personalized fit analysis.
 
 Backend · Frontend
 
-AI Pipeline Builder
+More Engineering
 
-React Flow Zustand FastAPI Python
+AI Pipeline Builder — nine configurable nodes, React Flow composition, Zustand state and FastAPI DAG validation.
 
-Visual workflow builder with nine configurable nodes, drag-and-drop composition, centralized state and backend DAG validation.
+Employee Leave Management System — JWT-secured employee/manager workflows backed by Node.js, Express and MySQL.
 
-Employee Leave Management System
-
-Node.js Express MySQL JWT
-
-Role-based leave workflows for employees and managers, backed by authenticated APIs and structured approval states.
-
-Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,fastapi,mongodb,mysql,postgres,git,docker,postman,tailwind&perline=7" alt="Core technology stack" />
 </p>
 
 <details>
-  <summary><strong>Detailed stack</strong></summary>
+  <summary><strong>View complete stack</strong></summary>
   <br />
 
 Frontend: React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React Flow, Zustand
@@ -90,7 +74,7 @@ Tools: Git, GitHub, Postman, Docker, Vite, Pytest, VS Code
 
 </details>
 
-Credentials
+## Credentials
 
 BCA, 2026 · NPTEL Python Programming — IIT Ropar · NPTEL Database Management Systems — IIT Madras · Saylor CS205 — 94%
 
