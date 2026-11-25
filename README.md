@@ -36,7 +36,7 @@ React Node.js Express Explainable Scoring
 
 Transforms lead data into a prioritized queue using transparent scoring signals and clear reasoning behind every ranking.
 
-Live Demo · Repository · Video Walkthrough
+[Live Demo](https://caprae-signalqueue.vercel.app) · [Repository](https://github.com/Dhruvmehta0708/caprae-signalqueue) · [Video Walkthrough](https://www.loom.com/share/0ef12a0dd5c54b3d8234d0674572e089)
 
 JobGPT — AI-Powered Job Discovery
 
