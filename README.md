@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvmehta2701@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/dhruvmehta05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1EIQkmG_0YEWrBDpuQjKoricsMBZ7F9n8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  
 </p>
 
 ## About
